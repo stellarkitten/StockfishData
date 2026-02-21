@@ -1,0 +1,147 @@
+depth,seldepth,bound,score,nodes,hashfull,pv
+1,2,exact,0,20,0,d2d4
+2,2,exact,12,44,0,a2a3
+3,2,exact,50,69,0,d2d4
+4,3,exact,50,92,0,d2d4
+5,3,exact,50,123,0,d2d4 a7a6
+6,8,exact,31,1815,1,d2d4 d7d5 b1c3 c8f5
+7,8,exact,28,2096,1,d2d4 d7d5 c2c4 d5c4
+8,8,exact,27,2565,2,d2d4 d7d5 c2c4 e7e6 c4d5 e6d5
+9,13,exact,34,5901,3,d2d4 g8f6 c2c4 e7e6 e2e3
+10,12,exact,31,7103,4,d2d4 d7d5 e2e3 g8f6 c2c4 e7e6 g1f3 f8e7 b1c3
+11,18,exact,41,22753,12,e2e4 c7c5 g1f3 e7e6 b1c3
+12,15,exact,42,27955,15,e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1e3 e7e5
+13,15,exact,39,31553,17,e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e6 c1e3 g8f6
+14,24,exact,39,47991,25,e2e4 c7c5 g1f3 g7g6 b1c3 b8c6 d2d4 c5d4 f3d4 g8f6 c1e3 f8g7 d4c6 b7c6 e4e5
+15,25,exact,31,90454,39,e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 b1c3 f8g7 c1e3 g8f6 d4c6 b7c6 e4e5 f6g8 f2f4 d7d5 f1e2 g8h6 d1d2 f7f6 e5f6 g7f6
+16,26,exact,31,130482,52,e2e4 c7c5 g1f3 b8c6 b1c3 e7e6 d2d4 c5d4 f3d4 g8f6 c1f4 d7d6 d4c6 b7c6 e4e5 f6d5 c3d5 e6d5
+17,24,exact,30,279903,111,e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6 f2f3 f8e7 g2g4
+18,22,exact,30,378645,146,e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 d2d3 c8g4 h2h3 g4h5
+19,23,exact,36,492584,192,e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f3e5 d7d5 b1d2 f8d6 d1h5 e8g8
+20,27,exact,33,898610,351,e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 c2c3 g8f6 f1e1 e8g8 d2d4 d7d5 e4e5 f6e4 h2h3 d8b6 b5d3 c5d4 c3d4
+21,29,exact,35,1176108,443,e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 f1e1 g8f6 b5c6 b7c6 d2d4 c5d4 e4e5
+22,30,exact,40,1504022,541,e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8e7 e1g1 c8f5 f1e1 e8g8 c2c4 b8c6 c4d5
+23,31,exact,29,2486833,784,d2d4 g8f6 c2c4 e7e6 g1f3 d7d5 b1c3 c7c5 c4d5 f6d5 e2e4 d5c3 b2c3 c5d4 c3d4 f8b4 c1d2 b4d2 d1d2 e8g8 f1d3
+24,27,exact,32,2849481,836,d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 d1a4 b8d7 a4c4 c7c5 g1f3 a7a6 c4c2 b7b5 f3e5 f6d5 b1c3
+25,30,upperbound,27,3232280,878,d2d4 g8f6
+25,32,lowerbound,30,3408223,891,d2d4
+25,32,exact,33,3582655,905,d2d4 g8f6 c2c4 e7e6 g1f3 d7d5 g2g3 d5c4 f1g2 f8b4 c1d2 a7a5 d1c2 b4d2 c2d2 c8d7 f3e5 d7c6 e5c6 b8c6 e2e3 d8e7 b1a3
+26,37,lowerbound,34,3770542,917,d2d4
+26,37,upperbound,29,4388152,954,d2d4 d7d5
+26,37,lowerbound,33,4582598,959,d2d4
+26,37,exact,30,5160652,975,d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 c4d5 e6d5 c1g5 c7c6 e2e3 h7h6 g5h4 f8e7 f1d3 f6e4 h4e7 d8e7 d3e4 d5e4 g1e2 b8d7 d1c2 d7f6 e2g3
+27,33,upperbound,28,5636573,983,d2d4 d7d5
+27,37,upperbound,25,6062853,986,d2d4 d7d5
+27,37,lowerbound,28,6484486,990,d2d4
+27,37,lowerbound,32,6599676,991,d2d4
+27,42,exact,32,6713587,991,d2d4 d7d5 c2c4 e7e6 g1f3 d5c4 e2e4 b7b5 a2a4 c7c6 a4b5 c6b5 b2b3 c8b7 b3c4 b7e4 b1d2 e4b7 d1b3 g8f6 b3b5 b7c6 b5g5 f8b4 c1a3 b4a3 a1a3 d8e7 g5g7 h8g8
+28,37,upperbound,28,7092851,995,d2d4 d7d5
+28,38,exact,31,7315094,996,d2d4 d7d5 c2c4 e7e6 g1f3 d5c4 e2e4 b7b5 a2a4 c7c6 a4b5 c6b5 b2b3 a7a5 b3c4 b5c4 f1c4 f8b4 c1d2 b4d2 b1d2 g8f6 a1a3 e8g8 d1a1 b8c6 e1g1
+29,44,upperbound,28,7766475,997,d2d4 d7d5
+29,44,upperbound,25,8303222,998,d2d4 d7d5
+29,44,exact,27,8935544,998,d2d4 d7d5 c2c4 e7e6 g1f3 d5c4 e2e4 b7b5 a2a4 c7c6 a4b5 c6b5 b2b3 g8f6 b3c4 f6e4 c4c5 f8c5 f1b5 c8d7 b5d7 d8d7 e1g1 c5d6 d1e2 d7b7 f1e1 e4f6 c1a3 d6e7
+30,31,upperbound,24,9869291,999,d2d4 d7d5
+30,31,upperbound,22,10860435,1000,d2d4 d7d5
+30,37,lowerbound,24,11500452,1000,d2d4
+30,37,lowerbound,29,11772298,1000,d2d4
+30,37,lowerbound,35,12178159,1000,d2d4
+30,42,exact,27,12808942,1000,d2d4 d7d5 c2c4 e7e6 g1f3 d5c4 e2e3 g8f6 f1c4 a7a6 a2a4 c7c5 e1g1 b8c6 d1e2 f8e7 f1d1 d8c7 b1c3 e8g8 b2b3 f8d8 c1b2 c5d4 e3d4 c7a5 c3e4 c8d7 e4f6 e7f6 f3e5
+31,39,upperbound,26,13981292,1000,d2d4 d7d5
+31,40,upperbound,24,14682352,1000,d2d4 d7d5
+31,40,exact,24,16399268,1000,d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 c4d5 e6d5 c1g5 c7c6 e2e3 h7h6 g5h4 f8e7 f1d3 e8g8 g1e2 f8e8 e1g1 b8d7 f2f3 b7b5 d1c2 d7b6 e3e4 d5e4 f3e4 f6g4 h4e7 d8e7
+32,41,upperbound,22,18178674,1000,d2d4 d7d5
+32,41,exact,22,19160671,1000,d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 c4d5 e6d5 c1g5 c7c6 e2e3 h7h6 g5h4 f8e7 f1d3 e8g8 g1e2 f8e8 e1g1 b8d7 d1c2 f6e4 h4e7 d8e7 f1e1 e4c3 e2c3 d7b6 f2f3 c6c5 a1d1 c8e6 c2f2 a8c8 a2a3
+33,39,upperbound,19,22586250,1000,d2d4 d7d5
+33,39,lowerbound,22,25589891,1000,e2e4
+33,39,lowerbound,25,26267824,1000,e2e4
+33,47,exact,27,28320792,1000,e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6 f3e5 c6e5 e1e5 f8e7 b5f1 e8g8 d2d4 e7f6 e5e1 f8e8 c1f4 e8e1 d1e1 d6e8 c2c3 d7d5 b1d2 g7g6 e1e3 e8g7 a1e1
+34,43,lowerbound,28,29359624,1000,e2e4
+34,43,lowerbound,31,30232941,1000,e2e4
+34,44,exact,34,31733455,1000,e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5 a4b3 f6e4 d2d4 d7d5 d4e5 c8e6 c2c3 f8c5 b1d2 e8g8 b3c2 e6f5 d2b3 f5g4 b3c5 e4c5 c1e3 c5e4 e3f4 f8e8 f1e1 e4c5 f4g3 g4h5
+35,47,upperbound,30,35601140,1000,e2e4 e7e5
+35,47,exact,32,36703106,1000,e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6 f3e5 c6e5 e1e5 f8e7 b5f1 e8g8 d2d4 e7f6 e5e1 d6f5 c2c3 d7d5 b1d2 f5d6 d2b3 c7c6 b3c5 a7a5 d1f3 h7h6 c1f4 a5a4 h2h3
+36,48,upperbound,28,38706684,1000,e2e4 e7e5
+36,48,upperbound,26,40618473,1000,e2e4 e7e5
+36,48,upperbound,22,42405242,1000,e2e4 e7e5
+36,54,lowerbound,25,44710991,1000,e2e4
+36,54,exact,22,45026834,1000,e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6 f3e5 c6e5 e1e5 f8e7 b5f1 e8g8 d2d4 d6e8 d4d5 e7c5 e5e1 d7d6 b1c3 f7f5 d1f3 c8d7 c1e3 c5e3 f3e3 f5f4 e3d4 d8g5
+37,40,lowerbound,25,46393713,1000,e2e4
+37,45,exact,27,48749981,1000,e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6 f3e5 f8e7 b5f1 c6e5 e1e5 e8g8 d2d4 d6e8 d4d5 e7c5 e5e1 d7d6 b1c3 c8f5 c3e4 f5e4 e1e4 e8f6 e4f4 a7a5 c2c3 f8e8 g2g3 e8e5 b2b4 c5b6 c1b2 e5d5
+38,49,upperbound,24,50427738,1000,e2e4 e7e5
+38,51,upperbound,21,55691610,1000,e2e4 e7e5
+38,51,lowerbound,24,57548118,1000,e2e4
+38,51,exact,23,57954972,1000,e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6 f3e5 f8e7 b5f1 c6e5 e1e5 e8g8 d2d4 d6e8 d4d5 e7c5 e5e1 d7d6 b1c3 c8f5 f1d3 d8f6 c3e4 f5e4 e1e4 c5f2 g1h1 f2c5 a1b1 a7a5 c1d2 g7g6 d1e2 e8g7 d2h6 f6d8 d3b5 f7f5 e4e7 c5d4 c2c3 d4e5
+39,55,upperbound,20,61125323,1000,e2e4 e7e5
+39,55,lowerbound,23,62864331,1000,e2e4
+39,55,exact,23,80617677,1000,d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 g2g3 f8e7 f1g2 e8g8 e1g1 d5c4 f3e5 b8c6 g2c6 b7c6 e5c6 d8d7 c6e7 d7e7 d1a4 a7a5 b1c3 f6d5 a4c4 c8a6 c4a4 f8b8 f1e1 d5c3 b2c3 h7h6 f2f3 a6b5 c1a3 e7d8 a4c2
+40,39,lowerbound,25,83637279,1000,d2d4
+40,44,lowerbound,27,85948073,1000,d2d4
+40,48,upperbound,20,96197473,1000,d2d4 d7d5
+40,48,lowerbound,25,98540728,1000,d2d4
+40,52,exact,26,105004273,1000,d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 g2g3 f8e7 f1g2 e8g8 e1g1 d5c4 f3e5 b8c6 g2c6 b7c6 e5c6 d8d7 c6e7 d7e7 d1a4 a7a5 b1c3 e7b4 a4c2 c8d7 e2e4 c7c5 a2a3 b4b6 d4c5 b6c5 c1e3
+41,49,lowerbound,28,111005127,1000,d2d4
+41,54,upperbound,23,120977468,1000,d2d4 d7d5
+41,54,lowerbound,26,134590289,1000,d2d4
+41,54,exact,22,145615463,1000,d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 e2e3 c8f5 b1c3 e7e6 f3h4 f5g6 h4g6 h7g6 c1d2 b8d7 d1b3 a8b8 c4d5 c6d5 g2g3 f8e7 f1g2 e8g8
+42,46,lowerbound,26,150346379,1000,d2d4
+42,46,upperbound,21,160792363,1000,d2d4 g8f6
+42,54,lowerbound,24,175498197,1000,d2d4
+42,54,lowerbound,29,177629813,1000,d2d4
+42,54,exact,27,180607180,1000,d2d4 g8f6 c2c4 c7c6 b1c3 d7d5 g1f3 e7e6 c1g5 h7h6 g5h4 f8e7 e2e3 e8g8 f1d3 b8d7 e1g1 f6e4 h4e7 e4c3 e7d8 c3d1 f1d1 f8d8 c4c5 d8e8 b2b4 e6e5 f3e5 d7e5 d4e5 e8e5 d1d2 c8d7 a2a4
+43,56,upperbound,24,185245868,1000,d2d4 g8f6
+43,56,lowerbound,27,188895089,1000,d2d4
+43,56,exact,26,190606039,1000,d2d4 g8f6 c2c4 c7c6 b1c3 d7d5 g1f3 e7e6 c1g5 h7h6 g5h4 f8e7 e2e3 e8g8 f1d3 d5c4 d3c4 b7b5 c4d3 c8b7 a1c1 b8d7 e1g1 a8c8 d1e2 b5b4 c3a4 g7g5 h4g3 d8a5 b2b3 c6c5 a4b2 b7f3 g2f3 c5d4 b2c4 a5d8 f3f4 d4e3 f4g5 e3f2 g3f2 h6g5
+44,56,upperbound,24,207647591,1000,d2d4 g8f6
+44,56,upperbound,21,216133049,1000,d2d4 g8f6
+44,56,exact,22,227657402,1000,d2d4 g8f6 c2c4 c7c6 b1c3 d7d5 g1f3 e7e6 c1g5 f8e7 e2e3 e8g8 d1c2 b8d7 a2a3 b7b6 c4d5 c6d5 f1d3 c8b7 g5f4 a8c8 e1g1 f6e4 h2h3 d7f6 f1c1 e4c3 b2c3 e7d6 f4d6 d8d6 a3a4 c8c7 a4a5 f8c8 f3d2
+45,58,upperbound,19,244303319,1000,d2d4 g8f6
+45,58,lowerbound,22,251051800,1000,d2d4
+45,58,lowerbound,25,257433689,1000,d2d4
+45,58,exact,29,286695307,1000,d2d4 d7d5 c2c4 c7c6 b1c3 g8f6 g1f3 e7e6 c1g5 b8d7 e2e3 d8a5 c4d5 f6d5 a1c1 d5c3 b2c3 f8a3 c1c2 b7b6 f1d3 c8a6 e1g1 a6d3 d1d3 e8g8 c3c4 f8e8 g5f4 a3e7 e3e4 a8c8 d3e2 a5a4 h2h4 c6c5 d4d5 e6d5 e4d5 b6b5
+46,56,upperbound,25,309573710,1000,d2d4 d7d5
+46,56,upperbound,22,320623368,1000,d2d4 d7d5
+46,56,lowerbound,25,351298383,1000,d2d4
+46,58,exact,21,443906150,1000,c2c4 e7e5 g2g3 g8f6 f1g2 c7c6 g1f3 e5e4 f3d4 d7d5 c4d5 d8b6 d4b3 a7a5 d2d3 a5a4 b3d2 e4d3 b1c3 c6d5 e2e4 f8b4 c3d5 f6d5 e4d5 e8g8 e1g1 c8f5 d2e4 b6b5 c1d2 f8e8 f1e1 b8a6 d2b4 f5e4 e1e4 a6b4 d1d2 b4d5 a1d1 d5f6 d2d3 b5b2
+47,52,lowerbound,24,502446094,1000,c2c4
+47,52,exact,19,524498432,1000,c2c4 e7e5 g2g3 g8f6 f1g2 c7c6 g1f3 e5e4 f3d4 d7d5 c4d5 d8b6 d4b3 a7a5 d2d3 a5a4 b3d2 e4d3 e1g1 c6d5 e2d3 f8e7 b1c3 b6a5 f1e1 b8c6 b2b4 a4b3 c1b2 a5d8 d1b3 e8g8 d2f3 e7b4 e1e2 c8g4 h2h3 g4f3 g2f3 c6d4 b3b4 d4f3 g1g2
+48,43,lowerbound,23,539311703,1000,d2d4
+48,57,lowerbound,26,595437376,1000,d2d4
+48,57,upperbound,18,617542811,1000,d2d4 d7d5
+48,62,exact,23,641079230,1000,d2d4 d7d5 c2c4 c7c6 b1c3 g8f6 g1f3 e7e6 e2e3 b8d7 d1c2 f8d6 f1d3 d5c4 d3c4 e8g8 e1g1 a7a6 e3e4 e6e5 f1d1 e5d4 f3d4 d8c7 h2h3 f8e8 a2a4 d7c5 f2f3 c5e6 c4e6 c8e6 c1e3 f6h5 c3e2 h5g3 e2g3 d6g3 a4a5 a8c8 d4e6 e8e6
+49,51,lowerbound,24,649333242,1000,d2d4
+49,54,upperbound,19,676005259,1000,d2d4 d7d5
+49,56,lowerbound,23,679050054,1000,d2d4
+49,61,exact,21,887068496,1000,d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 g2g3 d5c4 f1g2 c7c5 e1g1 b8c6 f3e5 c8d7 b1a3 c5d4 a3c4 f8c5 d1b3 e8g8 c1f4 f6d5 b3b7 c6e5 c4e5 d7a4 g2d5 e6d5 e5d3 c5b6 b2b3 d8d7 b7d7 a4d7 a2a4 f8e8 a4a5 b6d8 f1e1 d8f6 f4d6 d7b5 a1c1 e8e6 d6c5 g7g5
+50,61,lowerbound,24,976470388,1000,d2d4
+50,61,exact,22,1119335316,1000,e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6 f3e5 f8e7 b5f1 c6e5 e1e5 e8g8 d2d4 d6e8 c2c4 e7f6 e5e1 d7d5 c4d5 d8d5 c1e3 d5a5 b1c3 c8e6 c3e4 a8d8 b2b4 a5b4 a1b1 b4a3 b1b7 a3a2 b7b4 a2a5
+51,57,upperbound,19,1219482418,1000,e2e4 e7e5
+51,57,lowerbound,21,1256838428,1000,e2e4
+51,61,exact,19,1344839295,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 b2b4 c5b6 a2a4 a7a5 b4b5 c6e7 e1g1 e8g8 b1d2 e7g6 d3d4 f8e8 f1e1 c7c6 c4d3 d6d5 e4d5 c6d5 d3g6 h7g6 f3e5 c8f5 c1a3 a8c8 d1b3 b6c7 a1c1 f5e6 b3d1 f6d7 g2g3 c7e5 d4e5
+52,64,lowerbound,22,1444603924,1000,e2e4
+52,64,lowerbound,25,1471682565,1000,e2e4
+52,64,exact,23,1514799152,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 f1e1 e8g8 a2a4 f6g4 e1e2 g4f6 h2h3 h7h6 b1d2 c8e6 c4e6 f7e6 b2b4 c5b6 a1a2 d8e8 d2c4 b6a7 b4b5 c6e7 b5b6 a7b6 c4b6 c7b6 c1a3 e8d7 d3d4 e5d4 d1d4 e7c6 d4b6 f6h5 e2b2
+53,61,upperbound,20,1599855638,1000,e2e4 e7e5
+53,64,lowerbound,23,1680625471,1000,e2e4
+53,73,exact,24,1963312088,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 f1e1 e8g8 a2a4 c5a7 h2h3 h7h6 b1d2 c8e6 c4e6 f7e6 b2b4 f6h5 d2f1 d8f6 a1a2 h5f4 c1f4 f6f4 f1h2 a6a5 b4b5 c6b8 d3d4 b8d7 g2g3 f4f7 g1g2 e5d4 c3d4 e6e5 a2c2 a7b6 d4e5 d7e5 f3e5 d6e5 d1d5
+54,60,upperbound,21,2032115981,1000,e2e4 e7e5
+54,64,lowerbound,23,2080781834,1000,e2e4
+54,65,exact,22,2119788938,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 f1e1 c5a7 b1d2 e8g8 d2f1 c6a5 c4b3 a5b3 a2b3 h7h6 f1g3 f8e8 h2h3 c7c6 c1d2 d6d5 e4d5 d8d5 d2e3 a7b8 d1d2 f6h7 d3d4 e5e4 e3f4 c8h3 f4b8 a8b8 c3c4 d5d8 g3e4 h3f5 e4c5
+55,56,lowerbound,25,2204827342,1000,e2e4
+55,58,upperbound,20,2307248045,1000,e2e4 e7e5
+55,65,lowerbound,23,2318513985,1000,e2e4
+55,65,exact,19,2767693294,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 f1e1 c5a7 a2a4 h7h6 b1d2 c8e6 c4e6 f7e6 b2b4 e8g8 h2h3 c6e7 d2f1 e7g6 a1a2 d8d7 d3d4 d7f7 d4e5 g6e5 f3e5 d6e5 c1e3 a8d8 a2d2 d8d2 f1d2 a7e3 e1e3 f7d7 d1c2 f8d8
+56,65,lowerbound,22,2832879286,1000,e2e4
+56,65,lowerbound,25,2899515338,1000,e2e4
+56,65,exact,21,2926994119,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 f1e1 h7h6 a2a4 c5a7 b1d2 e8g8 d2f1 c8e6 c4e6 f7e6 f1g3 f6d7 c1e3 d8f6 a4a5 a7e3 e1e3 f8f7 h2h3 d7f8 d3d4 g8h8 d1b3 a8b8 b3c4 e5d4 c3d4 f8g6 c4c3 b8f8 a1f1 g6f4 g3e2
+57,66,lowerbound,25,2994549336,1000,e2e4
+57,66,upperbound,19,3148625564,1000,e2e4 e7e5
+57,67,lowerbound,23,3208184640,1000,e2e4
+57,67,exact,20,3313580915,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 a2a4 h7h6 f1e1 c5a7 b1d2 e8g8 d2f1 c8e6 c4e6 f7e6 b2b4 c6e7 h2h3 e7g6 a1a2 d8d7 a4a5 f8f7 a2b2 b7b5 a5b6 c7b6 b4b5 a6b5 c1e3 a7b8 d1b3 b8c7 g2g3
+58,68,lowerbound,23,3384868231,1000,e2e4
+58,69,exact,19,5074693931,1000,d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 b1c3 f8b4 d1a4 b8c6 a2a3 b4c3 b2c3 f6e4 e2e3 e8g8 f1d3 e4c3 a4c2 c3e4 e1g1 f7f5 a1b1 d8e7 h2h3 g8h8 c1b2 a8b8 a3a4 c8d7 c2c1 f8c8 c4d5 e6d5 b2a3 e7e8 c1c2 c6a5 f1c1 d7a4 c2a2 a5c4 d3c4 d5c4 a2c4 a4c6 f3e5 e4d2
+59,63,lowerbound,21,5543629221,1000,d2d4
+59,67,lowerbound,24,6029165521,1000,d2d4
+59,67,exact,17,6681165395,1000,d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 b1c3 f8b4 c1g5 h7h6 g5f6 d8f6 d1a4 b8c6 e2e3 e8g8 f1e2 d5c4 e1g1 f6e7 a2a3 b4c3 b2c3 e7d6 f3d2 c8d7 a4c4 b7b6 d2b3 c6e7 a3a4 d7c6 a4a5 a7a6 c4b4 d6b4 c3b4 e7d5 f1c1 d5b4 c1c4 b6a5 b3a5 c6b5 c4b4 b5e2
+60,71,lowerbound,22,7710396102,1000,e2e4
+60,71,lowerbound,24,7846617180,1000,e2e4
+60,71,exact,21,8038560353,1000,e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 a7a6 a2a4 c5a7 h2h3 e8g8 f1e1 h7h6 b2b4 f6h7 d3d4 e5d4 c3d4 c6b4 a4a5 b7b5 a5b6 a7b6 c1a3 b4c6 c4d5 c8d7 e4e5 a8b8 b1c3 a6a5 c3e4 c6b4 a3b4 a5b4 d1b3 d7e8 e5d6 h7f6 e4f6 d8f6 b3b4 f6d6 b4d6 c7d6 a1a6 e8d7
